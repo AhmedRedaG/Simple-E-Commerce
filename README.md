@@ -1,6 +1,6 @@
 ﻿## E‑Commerce Platform
 
-Robust Node.js + Express E‑Commerce web app with authentication, product management, cart, orders, and PDF invoices.
+Node.js + Express E‑Commerce web app with authentication, product management, cart, orders, and PDF invoices.
 
 ### Badges
 
@@ -202,4 +202,5 @@ ISC.
 
 - Built by Ahmed Reda.
 - Libraries: Express, EJS, Mongoose, Multer, PDFKit, Nodemailer, SendGrid transport, CSRF, express‑validator, connect‑flash.
+
 
